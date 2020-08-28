@@ -1,0 +1,50 @@
+body{
+    background-image: url(/ga31607.jpg);
+    background-attachment: fixed;
+}
+.info{
+    width: 100%;
+    font-size: 70px;
+    text-align:center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.trigger{
+    width: 100%;
+    font-size: 40px;
+    text-align:center;
+    color: red;
+}
+.hidden
+{
+    display: none;
+}
+.green{
+    background: #629755;
+}
+.red{
+    background: darkred;
+}
+.field{
+    width: 25%;
+    margin: 0 auto;
+    cursor: pointer;
+}
+.cage{
+    width: 100px;
+    height: 100px;
+    text-align:center;
+    font-size:100px;
+    float: left;
+    line-height: 94px;
+    border: 1px solid #000000;
+    color: #cc2255;
+
+}
+button{
+    margin-top: 30px;
+    margin-left: 70px;
+    font-size: 20px;
+    background-color: #6E6E6E;
+    cursor: pointer;
+}
